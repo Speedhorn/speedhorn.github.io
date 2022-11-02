@@ -274,7 +274,6 @@ padding-bottom: 10px;
 }
 
 @media only screen and (max-width: 600px){
-
 .header{
 	width: 100%;
 	height: 100vh;
@@ -283,23 +282,6 @@ padding-bottom: 10px;
 	background-position: center;
 	}
 
-h1.subtitle{
-	color: white;
-	font-size: 60px;
-	padding: 20px 30px;
-	margin: 10px 15px;
-    
-}
-/*.subp{
-	font-size: 25px;
-	font-weight: 300;
-	margin-top: 10px;
-	letter-spacing: 1px;
-	flex-basis: 100%;
-	margin-right:40px;
-    margin-left: 20px;
-}
-*/
 .grid{
 	padding-top: 15px;
 }
